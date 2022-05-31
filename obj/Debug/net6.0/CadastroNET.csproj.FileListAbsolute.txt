@@ -1,0 +1,15 @@
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\net6.0\CadastroNET.exe
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\net6.0\CadastroNET.deps.json
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\net6.0\CadastroNET.runtimeconfig.json
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\net6.0\CadastroNET.dll
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\net6.0\CadastroNET.pdb
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\net6.0\CadastroNET.csproj.AssemblyReference.cache
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\net6.0\CadastroNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\net6.0\CadastroNET.AssemblyInfoInputs.cache
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\net6.0\CadastroNET.AssemblyInfo.cs
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\net6.0\CadastroNET.csproj.CoreCompileInputs.cache
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\net6.0\CadastroNET.dll
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\net6.0\refint\CadastroNET.dll
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\net6.0\CadastroNET.pdb
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\net6.0\CadastroNET.genruntimeconfig.cache
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\net6.0\ref\CadastroNET.dll

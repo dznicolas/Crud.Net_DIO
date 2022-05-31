@@ -1,0 +1,14 @@
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\netcoreapp3.1\CadastroNET.exe
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\netcoreapp3.1\CadastroNET.deps.json
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\netcoreapp3.1\CadastroNET.runtimeconfig.json
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\netcoreapp3.1\CadastroNET.runtimeconfig.dev.json
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\netcoreapp3.1\CadastroNET.dll
+C:\Users\Dz\Desktop\CadastroNET\bin\Debug\netcoreapp3.1\CadastroNET.pdb
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\netcoreapp3.1\CadastroNET.csproj.AssemblyReference.cache
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\netcoreapp3.1\CadastroNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\netcoreapp3.1\CadastroNET.AssemblyInfoInputs.cache
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\netcoreapp3.1\CadastroNET.AssemblyInfo.cs
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\netcoreapp3.1\CadastroNET.csproj.CoreCompileInputs.cache
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\netcoreapp3.1\CadastroNET.dll
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\netcoreapp3.1\CadastroNET.pdb
+C:\Users\Dz\Desktop\CadastroNET\obj\Debug\netcoreapp3.1\CadastroNET.genruntimeconfig.cache
